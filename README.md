@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=wangxiao5791509&show_icons=true&theme=transparent)
+![XiaoWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxiao5791509&show_icons=true&theme=transparent)
 
 More details about me or **Event-AHU Research Group** can be found from: [[https://wangxiao5791509.github.io/](https://wangxiao5791509.github.io/)]
 
