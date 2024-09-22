@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## Try to make things better and work hard. 😄
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=wangxiao5791509&show_icons=true&theme=transparent" />
+More details about me or **Event-AHU Research Group** can be found from: [[https://wangxiao5791509.github.io/](https://wangxiao5791509.github.io/)]
 
 <!--
 **wangxiao5791509/wangxiao5791509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
